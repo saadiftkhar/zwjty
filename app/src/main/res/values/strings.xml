@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Zwjty</string>
+
+    <string name="admob_app_id">ca-app-pub-6299936122091680~1685229566</string>
+<!--    <string name="admob_banner_id">ca-app-pub-6299936122091680/5105599824</string>-->
+<!--    <string name="admob_interstitial_id">ca-app-pub-6299936122091680/8386686510</string>-->
+
+    <!--    Test ids -->
+    <string name="admob_banner_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_interstitial_id">ca-app-pub-3940256099942544/1033173712</string>
+
+
+    <!--    ca-app-pub-3940256099942544/6300978111-->
+    <!--    Test interstitial id-->
+    <!--    ca-app-pub-3940256099942544/1033173712-->
+    <!--    Test native id-->
+    <!--    ca-app-pub-3940256099942544/2247696110-->
+
+</resources>
